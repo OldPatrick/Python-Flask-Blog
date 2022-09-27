@@ -1,3 +1,3 @@
-# Day-69-blog_capstone
+# Blog
 ## own commit
 Blog built with *Flask*
